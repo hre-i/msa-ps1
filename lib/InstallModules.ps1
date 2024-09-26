@@ -1,0 +1,2 @@
+Install-Module ExchangeOnlineManagement
+Install-Module Microsoft.Graph

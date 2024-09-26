@@ -1,0 +1,4 @@
+####:INIT:START
+. "$env:NUWS\msa-ps1\lib\MSALib.ps1"
+StartTS((Get-Item $PSCommandPath).BaseName)
+####:INIT:END
